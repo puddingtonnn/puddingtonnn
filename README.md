@@ -1,5 +1,4 @@
 # About Me:
-Im from the coldest place in the world (Republic of Sakha (Yakutia)
 Im currently learning Go and building pet-projects.
 
 

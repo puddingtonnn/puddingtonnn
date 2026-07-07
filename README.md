@@ -1,6 +1,6 @@
 ### Hi, I'm Denis 👋
  
-Backend engineer working mostly in **Go**.
+Software engineer working mostly in **Go**.
 - 🔭 **Building** — backend services and CLI tools in Go
 - 🌱 **Learning** — idiomatic Go, concurrency, and system design
 - 🧰 **Stack** — Go · PostgreSQL · Redis · Docker · GitHub Actions
